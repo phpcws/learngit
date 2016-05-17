@@ -6,4 +6,4 @@ Git is free software distributed under the GPL 2016-5-17.
 I think we should go to holiday
 But do you think you sectence is right;
 git has index, it can know how step edit ?
-git tracks changes.
+git tracks changes of files.
