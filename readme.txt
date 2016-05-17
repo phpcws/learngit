@@ -7,3 +7,5 @@ I think we should go to holiday
 But do you think you sectence is right;
 git has index, it can know how step edit ?
 git tracks changes of files.
+
+I had been submit local files upload to github
